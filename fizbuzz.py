@@ -8,4 +8,4 @@ def fizzbuzz(n):
         return 'Buzz'
     else:
         return str(n)
-    print fizzbuzz(n)
+    
